@@ -20,7 +20,7 @@ const routes: Routes = [
     component: NumerosComponent
   },
   {
-    path:'ordena',
+    path:'ordenar',
     component: OrdenarComponent
   },
   {
